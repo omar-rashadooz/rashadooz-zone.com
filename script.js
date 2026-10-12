@@ -23,7 +23,7 @@ function normalize(s) {
 const noResults = document.createElement("p");
 noResults.className = "no-results";
 noResults.hidden = true;
-noResults.textContent = "مفيش نتايج للبحث ده.";
+noResults.textContent = "لا توجد نتائج.";
 feed.appendChild(noResults);
 
 // بناء كارت لكل خبر
