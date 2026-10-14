@@ -3,14 +3,14 @@
 // likes: العدد الأساسي للايكات (بيزيد عليه رقم عشوائي صغير مع كل زيارة)
 // خبر جديد: ضيف سطر هنا + صورة photo_numX.png + مقال subject_numX.txt
 const posts = [
-  { id: 14, title: "هل Linux هو المستقبل ؟",   category: "programming", date: "2026-10-14", likes: 157 },
+  { id: 14, title: "هل Linux هو المستقبل ؟",   category: "programming", date: "2026-10-14", likes: 143 },
   { id: 13, title: "معالجات إنتل تنبض بالضوء: ثورة Micro-LED",   category: "programming", date: "2026-10-12", likes: 157 },
   { id: 12, title: "هل تقتل روكستار روح السلسلة؟ الحقيقة الصادمة خلف مستقبل GTA 6",   category: "games",       date: "2026-10-10", likes: 190 },
   { id: 11, title: "تايبسكريبت تهدد عرش جافاسكريبت",            category: "programming", date: "2026-10-10", likes: 161 },
   { id: 10, title: "ابحر معنا في بحر الألعاب المقرصنة والمكركة", category: "games",    date: "2026-10-09", likes: 255 },
   { id: 9, title: "تاريخ سلسلة Call of Duty الشهيرة",       category: "games",       date: "2026-10-09", likes: 206 },
   { id: 8, title: "شرح Docker container",                       category: "programming", date: "2026-10-09", likes: 181 },
-  { id: 7, title: "اختيار محرر الأكواد المناسب",            category: "programming", date: "2026-10-09", likes: 143 },
+  { id: 7, title: "اختيار محرر الأكواد المناسب",            category: "programming", date: "2026-10-09", likes: 149 },
   { id: 6, title: "أزمة الرامات العالمية",                  category: "programming", date: "2026-10-09", likes: 96  },
   { id: 1, title: "البرمجة مع الـ AI",                    category: "programming", date: "2026-10-09", likes: 116 },
   { id: 2, title: "The New Version",                        category: "programming", date: "2026-10-09", likes: 81  },
