@@ -3,6 +3,7 @@
 // likes: العدد الأساسي للايكات (بيزيد عليه رقم عشوائي صغير مع كل زيارة)
 // خبر جديد: ضيف سطر هنا + صورة photo_numX.png + مقال subject_numX.txt
 const posts = [
+  { id: 15, title: "Playstation 5 انكسرت حمايته ؟",   category: "games", date: "2026-10-15", likes: 316 },
   { id: 14, title: "هل Linux هو المستقبل ؟",   category: "programming", date: "2026-10-14", likes: 143 },
   { id: 13, title: "معالجات إنتل تنبض بالضوء: ثورة Micro-LED",   category: "programming", date: "2026-10-12", likes: 157 },
   { id: 12, title: "هل تقتل روكستار روح السلسلة؟ الحقيقة الصادمة خلف مستقبل GTA 6",   category: "games",       date: "2026-10-10", likes: 190 },
