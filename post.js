@@ -13,6 +13,9 @@ if (!p) {
     </div>`;
 } else {
   document.title = `${p.title} | RASHADOOZ ZONE`;
+  
+  const desc = document.querySelector('meta[name="description"]');
+  if (desc) desc.content = `${p.title} - آخر أخبار ${p.category === "games" ? "الألعاب" : "البرمجة"} من RASHADOOZ ZONE`;
 
   // تظبيط زرار القسم في شريط التنقل
   document.querySelectorAll(".navbar a").forEach(a => {
